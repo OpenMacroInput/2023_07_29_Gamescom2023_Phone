@@ -13,7 +13,7 @@
 /Ignore
 /Assets/AssetStorePrivate
 GitRef/
-!GitRef/[Ii]nstall*
+!GitRef/[Ii]nstall/*
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
